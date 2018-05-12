@@ -1,0 +1,39 @@
+_repo: A-Treatise-on-Meteorological-InstrumentsConstruction-and-Practical-Utility_36457
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Negretti, Enrico Angelo Lodovico
+    aliases:
+    - Negretti, Henry
+    - Negretti, E. A. L.
+    birthdate: 1818
+    deathdate: 1879
+    gutenberg_agent_id: '38282'
+    url: http://www.gutenberg.org/2009/agents/38282
+  - agent_name: Zambra, Joseph
+    alias: Zambra, Joseph Warren
+    birthdate: 1822
+    deathdate: 1897
+    gutenberg_agent_id: '38283'
+    url: http://www.gutenberg.org/2009/agents/38283
+description: ''
+gutenberg_issued: '2011-06-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36457'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'QC'
+- !lcc 'Q'
+- !lcsh 'Meteorological instruments'
+- !lcsh 'Meteorology'
+- !lcsh 'Scientific apparatus and instruments'
+title: "A Treatise on Meteorological Instruments\r\nExplanatory of Their Scientific\
+  \ Principles, Method of Construction, and Practical Utility"
+url: http://www.gutenberg.org/ebooks/36457
